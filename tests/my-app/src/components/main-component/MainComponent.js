@@ -1,7 +1,6 @@
 import React from "react";
 import { Search } from "../SearchComponent";
 import { Table } from "../table/TableComponent";
-import styles from "./styles.css";
 
 const MainComponent = () => {
   return (
