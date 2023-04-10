@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 import { UsersContext } from "../../context";
+import styles from "./styles.css";
 
 const rows = [
   {

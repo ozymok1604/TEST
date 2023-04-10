@@ -1,5 +1,7 @@
 import React from "react";
 
+import styles from "./styles.css";
+
 import Logo from "../../svg/logo.svg";
 
 const SideMenuComponent = () => {

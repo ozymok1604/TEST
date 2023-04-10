@@ -1,7 +1,6 @@
 import React, { useContext } from "react";
-
+import styles from "./styles.css";
 import SearchIMG from "../../svg/search.svg";
-
 import { UsersContext } from "../../context";
 
 const Search = () => {
